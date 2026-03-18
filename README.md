@@ -15,7 +15,7 @@
   <img src="https://media.tenor.com/MZujGvyPuigAAAAj/rainbow-font-rainbow-text.gif">
 </p>
  <p align="center">
-   <small>i love my L</small>
+   <small><i>i love my L</small></i>
  </p>
 
 
