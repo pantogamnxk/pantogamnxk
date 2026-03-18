@@ -1,6 +1,6 @@
 ##                                   hello there ! ( •̀ ω •́ )✧
 <p align="center">
-  welcome !! feel free to int ant c*h , i dont mind and appreciate it !
+  welcome !! feel free to int and c*h , i dont mind and appreciate it !
 </p>
 <p align="center">
   sign my ata pretty please ;3
