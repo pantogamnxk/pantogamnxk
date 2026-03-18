@@ -1,6 +1,6 @@
 ##                                   hello there ! ( •̀ ω •́ )✧
 <p align="center">
-  welcome !! i go by <b>panto</b> , <b>pantogam</b> or <b>nick</b> ! feel free to int and c*h , i dont mind and appreciate it !
+  welcome !! i go by <b><i>panto</b></i> , <b><i>pantogam</b></i> or <b><i>nick</b></i> ! feel free to int and c*h , i dont mind and appreciate it !
 </p>
 <p align="center">
   sign my ata pretty please ;3
