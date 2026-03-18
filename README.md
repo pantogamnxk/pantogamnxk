@@ -6,6 +6,9 @@
   sign my ata pretty please ;3
 </p>
 <p align="center">
+  <img src="https://media.tenor.com/IOgKZTtTj8YAAAAM/spoke-spokeishere.gif">
+</p>
+<p align="center">
   <a href="https://pantogamnxk.atabook.org/">ata.org</a>
 </p>
 
