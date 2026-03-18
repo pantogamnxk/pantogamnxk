@@ -1,6 +1,7 @@
 ##                                   hello there ! ( •̀ ω •́ )✧
-
-##
+<p align="center">
+  welcome !! feel fre to int ant c*h , i dont mind and appreciate it !
+</p>
 <p align="center">
   <a href="https://pantogamnxk.atabook.org/">ata.org</a>
 </p>
