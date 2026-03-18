@@ -11,6 +11,10 @@
 <p align="center">
   <a href="https://pantogamnxk.atabook.org/">ata.org</a>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/MZujGvyPuigAAAAj/rainbow-font-rainbow-text.gif">
+</p>
+
 
 <!--
 **pantogamnxk/pantogamnxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
